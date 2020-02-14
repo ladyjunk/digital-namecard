@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:superduperandrea@gmail.com
 TEL;type=WORK;type=VOICE:424 235 4432
 item1.ADR;type=WORK;type=pref:;;Los Angeles, CA 90019
 item1.X-ABADR:US
-item2.URL;type=www.superduperandrea.wordpress.com
+item2.URL;type=pref:www.superduperandrea.wordpress.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
